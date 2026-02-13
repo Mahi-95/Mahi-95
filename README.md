@@ -1,8 +1,8 @@
-### Well, Hello there 👋
+### Hello! 👋 Welcome to my GitHub. 👋
 
 
 ### Who am I? 
-### Hello! 👋 Welcome to my GitHub.
+### 
 I’m a Software Quality Assurance Engineer with 3+ years of experience, passionate about ensuring software excellence. Here, I share my testing projects, automation scripts, and QA resources focused on identifying defects, improving software quality, and enhancing user experience.
 
 QA Engineer | 3+ yrs experience | Testing & Automation | Improving Software Quality & User Experience
