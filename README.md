@@ -2,10 +2,10 @@
 
 
 ### Who am I? 
-### I'm a Software Quality Assurance Engineer with a deep commitment to ensuring software excellence. With 2+ years of experience in the field, I'm dedicated to meticulously testing software applications, identifying defects, and enhancing user experiences. I stay up-to-date with the latest industry trends and best practices, enabling me to provide valuable insights and drive continuous improvement.
+### Hello! 👋 Welcome to my GitHub.
+I’m a Software Quality Assurance Engineer with 3+ years of experience, passionate about ensuring software excellence. Here, I share my testing projects, automation scripts, and QA resources focused on identifying defects, improving software quality, and enhancing user experience.
 
-
-
+QA Engineer | 3+ yrs experience | Testing & Automation | Improving Software Quality & User Experience
 
 <!--
 **Mahi-95/Mahi-95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
